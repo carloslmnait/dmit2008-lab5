@@ -1,0 +1,244 @@
+{
+  "todos": {
+    "-NqAQx5pZurL7VB95hQK": {
+      "category": "health",
+      "finish": "2024-02-18",
+      "start": "2024-02-04",
+      "status": "in-progress",
+      "todo": "Take a nap for 20 minutes",
+      "uid": "e4f75e1a"
+    },
+    "-NqAQx5sPtF41JNcs88M": {
+      "category": "personal",
+      "finish": "2024-02-11",
+      "start": "2024-02-04",
+      "status": "in-progress",
+      "todo": "Call mom",
+      "uid": "ca10510b"
+    },
+    "-NqAQx5wTznbPb3KwEDh": {
+      "category": "health",
+      "finish": "2024-02-14",
+      "start": "2024-01-31",
+      "status": "cancelled",
+      "todo": "Practice gratitude by listing 5 things you're thankful for",
+      "uid": "a613be55"
+    },
+    "-NqAQx5z2EJPdAFEJrR8": {
+      "category": "school",
+      "finish": "2024-02-22",
+      "start": "2024-02-01",
+      "status": "cancelled",
+      "todo": "Practice responsive typography",
+      "uid": "09f65fa7"
+    },
+    "-NqAQx627_pAI0V3f4sF": {
+      "category": "personal",
+      "finish": "2024-02-07",
+      "start": "2024-01-31",
+      "status": "cancelled",
+      "todo": "Call mom",
+      "uid": "1b159b87"
+    },
+    "-NqAQx65CMd7_sqnhXxu": {
+      "category": "health",
+      "finish": "2024-02-14",
+      "start": "2024-01-31",
+      "status": "completed",
+      "todo": "Do a puzzle or brain teaser",
+      "uid": "3ea4bac0"
+    },
+    "-NqAQx68FvbTiINDrHn5": {
+      "category": "school",
+      "finish": "2024-02-23",
+      "start": "2024-02-02",
+      "status": "cancelled",
+      "todo": "Learn about cross-browser compatibility",
+      "uid": "78ee15a4"
+    },
+    "-NqAQx6BtDyWEYNx_4dt": {
+      "category": "personal",
+      "finish": "2024-02-19",
+      "start": "2024-02-05",
+      "status": "in-progress",
+      "todo": "Read a book",
+      "uid": "626c2d5c"
+    },
+    "-NqAQx6F_jfk864u5lf3": {
+      "category": "school",
+      "finish": "2024-02-13",
+      "start": "2024-01-30",
+      "status": "completed",
+      "todo": "Experiment with CSS preprocessors",
+      "uid": "cfe942e2"
+    },
+    "-NqAQx6Idf5g3H2yVu4S": {
+      "category": "school",
+      "finish": "2024-02-27",
+      "start": "2024-02-06",
+      "status": "cancelled",
+      "todo": "Create a responsive navigation menu",
+      "uid": "ba49ae67"
+    },
+    "-NqAQx6LKai3L0AtmPgA": {
+      "category": "school",
+      "finish": "2024-02-06",
+      "start": "2024-01-30",
+      "status": "completed",
+      "todo": "Design a responsive website",
+      "uid": "234287b2"
+    },
+    "-NqAQx6Oflc-xT7Nqy5r": {
+      "category": "personal",
+      "finish": "2024-02-23",
+      "start": "2024-02-02",
+      "status": "cancelled",
+      "todo": "Go for a run",
+      "uid": "83cc396c"
+    },
+    "-NqAQx6SgdiNW2TMLQL6": {
+      "category": "work",
+      "finish": "2024-02-09",
+      "start": "2024-02-02",
+      "status": "completed",
+      "todo": "Style navigation bar",
+      "uid": "c3c68176"
+    },
+    "-NqAQx6V5DPXjqiEz1nE": {
+      "category": "personal",
+      "finish": "2024-02-05",
+      "start": "2024-01-29",
+      "status": "completed",
+      "todo": "Finish work presentation",
+      "uid": "31a4a3a6"
+    },
+    "-NqAQx6Ydcn348jXIFrG": {
+      "category": "health",
+      "finish": "2024-02-25",
+      "start": "2024-02-04",
+      "status": "in-progress",
+      "todo": "Read a book for 30 minutes",
+      "uid": "c0f82277"
+    },
+    "-NqAQx6bS4tL4eqbGDx0": {
+      "category": "personal",
+      "finish": "2024-02-12",
+      "start": "2024-01-29",
+      "status": "in-progress",
+      "todo": "Attend yoga class",
+      "uid": "da7dcd2e"
+    },
+    "-NqAQx6eNcCvF6eHGEb9": {
+      "category": "school",
+      "finish": "2024-02-13",
+      "start": "2024-02-06",
+      "status": "completed",
+      "todo": "Learn version control with Git",
+      "uid": "c8f082f7"
+    },
+    "-NqAQx6hkxIgC4TK1UiB": {
+      "category": "work",
+      "finish": "2024-02-28",
+      "start": "2024-02-07",
+      "status": "completed",
+      "todo": "Style navigation bar",
+      "uid": "06239cdc"
+    },
+    "-NqAQx6klcLgp_NC4a1A": {
+      "category": "work",
+      "finish": "2024-02-16",
+      "start": "2024-02-02",
+      "status": "in-progress",
+      "todo": "Add tooltips",
+      "uid": "d1b497b9"
+    },
+    "-NqAQx6okv7hD8wRJ2e3": {
+      "category": "personal",
+      "finish": "2024-02-27",
+      "start": "2024-02-06",
+      "status": "in-progress",
+      "todo": "Plan weekend trip",
+      "uid": "6627df74"
+    },
+    "-NqAQx6rkYNHdOY0g9Ka": {
+      "category": "work",
+      "finish": "2024-02-17",
+      "start": "2024-02-03",
+      "status": "cancelled",
+      "todo": "Fix broken image links",
+      "uid": "2b0b687f"
+    },
+    "-NqAQx6uFCzQ6ZGUcFPg": {
+      "category": "health",
+      "finish": "2024-02-11",
+      "start": "2024-02-04",
+      "status": "completed",
+      "todo": "Do a digital detox for 1 hour",
+      "uid": "0cc58e2e"
+    },
+    "-NqAQx6yCUIH09zKLYyb": {
+      "category": "school",
+      "finish": "2024-02-06",
+      "start": "2024-01-30",
+      "status": "completed",
+      "todo": "Collaborate on a group project",
+      "uid": "e3b298e3"
+    },
+    "-NqAQx702phg2-TvTbD4": {
+      "category": "personal",
+      "finish": "2024-02-19",
+      "start": "2024-02-05",
+      "status": "cancelled",
+      "todo": "Call mom",
+      "uid": "f3fbbfe2"
+    },
+    "-NqAQx73UC24mp3X2k-r": {
+      "category": "personal",
+      "finish": "2024-02-19",
+      "start": "2024-01-29",
+      "status": "completed",
+      "todo": "Update controller finally working now",
+      "uid": "-NqAQx73UC24mp3X2k-r"
+    },
+    "-NuCX55HUfhfYJiPuqJq": {
+      "category": "health",
+      "status": "in-progress",
+      "todo": "Add to do controller working"
+    },
+    "-NuCXYOsYH8oXNKlO4Lt": {
+      "category": "work",
+      "status": "in-progress",
+      "todo": "Finish lab 4 of dmit2008"
+    },
+    "-NuCXhhXa5Mra2tatRos": {
+      "category": "personal",
+      "status": "cancelled",
+      "todo": "Prep for 10 hours work at the bakery"
+    },
+    "-NuCXmnvJgXgr9TdBMDb": {
+      "category": "work",
+      "status": "completed",
+      "todo": "Work during the holidays"
+    },
+    "-NuCZ7AIXJHB8kdDYiL1": {
+      "category": "school",
+      "status": "completed",
+      "todo": "Submit dmit2008 lab4 before the deadline"
+    },
+    "-NuCZBVAV3fVrPkf3AuZ": {
+      "category": "personal",
+      "status": "cancelled",
+      "todo": "Water plants"
+    },
+    "-NuCZEvSli9N_Wr1yx96": {
+      "category": "personal",
+      "status": "in-progress",
+      "todo": "Exercise and meditate"
+    },
+    "-NuCZPlLPk0P1gZ5MkR7": {
+      "category": "school",
+      "status": "in-progress",
+      "todo": "Finish designing Capstone Project CRUD application"
+    }
+  }
+}

@@ -1,6 +1,6 @@
 import { ref, set, get, push, child, remove, update } from "firebase/database";
 import { db } from "../lib/firebase/config/firebaseInit";
-import { createStore, removeFromStore, updateStore } from "./store";
+import { createStore, removeFromStore, updateStore, addToStore } from "./store";
 
 let observers = []
 
@@ -39,5 +39,18 @@ export function updateToDo(updatedToDo) {
     const dbRef = ref(db, `todos/${payload.uid}`)
     update(dbRef, payload)
     const store = updateStore(payload)
+    notify(store)
+}
+
+// Add to do controller
+export async function addToDo(addedToDo) {
+    const dbRef = ref(db, `todos`)
+    const addedToDoRef = push(dbRef)
+
+    // call addToStore 
+    await set(addedToDoRef, addedToDo)
+    addedToDo.uid = addedToDoRef.key
+    const store = addToStore(addedToDo)
+
     notify(store)
 }
