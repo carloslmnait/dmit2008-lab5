@@ -238,7 +238,33 @@
     "-NuCZPlLPk0P1gZ5MkR7": {
       "category": "school",
       "status": "in-progress",
-      "todo": "Finish designing Capstone Project CRUD application"
+      "todo": "Finish designing Capstfgfdsgsdfone Proj",
+      "uid": "-NuCZPlLPk0P1gZ5MkR7"
+    },
+    "-NvJjGVFp3VzaH0XWPL8": {
+      "category": "personal",
+      "status": "completed",
+      "todo": "Update Lab 5"
+    },
+    "-NvJjKxb2i7qCljPrKrx": {
+      "category": "health",
+      "status": "completed",
+      "todo": "Hello"
+    },
+    "-NvJklJ1i5ES7qjWwvmh": {
+      "category": "personal",
+      "status": "ongoing",
+      "todo": "Walk the dogs"
+    },
+    "-NvJmBU1yjPy5i0ovuVL": {
+      "category": "work",
+      "status": "ongoing",
+      "todo": "Wake up early"
+    },
+    "-NvJmQjecBx3ZXf7Sglj": {
+      "category": "work",
+      "status": "in-progress",
+      "todo": "Update controller now"
     }
   }
 }

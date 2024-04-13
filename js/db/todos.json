@@ -1,244 +1,270 @@
 {
 	"todos": {
-		"-NpB-eTM3CAL9ana07fx": {
-			"uid": "9b5dcd7f",
-			"task_name": "posuere cubilia curae donec pharetra magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit",
-			"category": "health",
-			"startDate": "2024-01-22T11:56:35Z",
-			"todo": "Stretch for 10 minutes",
-			"status": "Completed"
-		},
-		"-NpB-eTP0EYzP99zcfBV": {
-			"uid": "0c89c52f",
-			"task_name": "gravida nisi at nibh in hac habitasse platea dictumst aliquam augue quam",
-			"category": "work",
-			"startDate": "2024-01-17T05:49:12Z",
-			"todo": "Check inventory levels",
-			"status": "Completed"
-		},
-		"-NpB-eTUwyiGiZhw9a38": {
-			"uid": "07b7bd52",
-			"task_name": "nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis",
-			"category": "social",
-			"startDate": "2024-01-06T03:42:32Z",
-			"todo": "Attend a wine tasting event",
-			"status": "Completed"
-		},
-		"-NpB-eTYil34cWwbqYq-": {
-			"uid": "9d5149f6",
-			"task_name": "elit proin risus praesent lectus vestibulum quam sapien varius ut blandit non interdum in ante vestibulum",
-			"category": "health",
-			"startDate": "2024-01-01T22:12:20Z",
-			"todo": "Drink a green smoothie",
-			"status": "In Progress"
-		},
-		"-NpB-eTbMN1VcPjWbyC3": {
-			"uid": "3aaa55bd",
-			"task_name": "vehicula condimentum curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt",
-			"category": "school",
-			"startDate": "2024-01-30T16:51:43Z",
-			"todo": "Attend orientation",
-			"status": "Cancelled"
-		},
-		"-NpB-eTf2DkbYqYfv3-5": {
-			"uid": "c7ef6fcf",
-			"task_name": "id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia sapien quis libero nullam",
-			"category": "school",
-			"startDate": "2024-01-10T08:25:32Z",
-			"todo": "Join a club",
-			"status": "Completed"
-		},
-		"-NpB-eTh66pFtzvA3Kl2": {
-			"uid": "e3d1b638",
-			"task_name": "ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae",
-			"category": "home",
-			"startDate": "2024-01-07T21:09:44Z",
-			"todo": "Clean out the refrigerator",
-			"status": "Completed"
-		},
-		"-NpB-eTkhkm1yv2arJKN": {
-			"uid": "676404db",
-			"task_name": "consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus in",
-			"category": "work",
-			"startDate": "2024-01-20T00:41:45Z",
-			"todo": "Update drink specials",
-			"status": "Cancelled"
-		},
-		"-NpB-eTmQvmoClo2_Rt3": {
-			"uid": "ab150fde",
-			"task_name": "platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id mauris vulputate elementum nullam",
-			"category": "health",
-			"startDate": "2024-01-04T17:29:43Z",
-			"todo": "Practice deep breathing exercises",
-			"status": "Cancelled"
-		},
-		"-NpB-eTpomHfEscZng7L": {
-			"uid": "1346c7cf",
-			"task_name": "eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum vestibulum ante ipsum",
-			"category": "home",
-			"startDate": "2024-01-31T18:40:09Z",
-			"todo": "Wash the windows",
-			"status": "In Progress"
-		},
-		"-NpB-eTrZ873TN5DlMGB": {
-			"uid": "25d3e0da",
-			"task_name": "sed vestibulum sit amet cursus id turpis integer aliquet massa id",
-			"category": "social",
-			"startDate": "2024-01-19T02:48:58Z",
-			"todo": "Attend a networking event",
-			"status": "Completed"
-		},
-		"-NpB-eTuFZul9oD2p02n": {
-			"uid": "e8494982",
-			"task_name": "diam neque vestibulum eget vulputate ut ultrices vel augue vestibulum ante ipsum primis in faucibus orci luctus et",
-			"category": "social",
-			"startDate": "2024-01-30T01:30:01Z",
-			"todo": "Have a beach day with friends",
-			"status": "Completed"
-		},
-		"-NpB-eTxQPKhXhasT-ms": {
-			"uid": "9e2ef3f1",
-			"task_name": "ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie",
-			"category": "home",
-			"startDate": "2024-01-17T18:45:19Z",
-			"todo": "Reorganize the closet",
-			"status": "In Progress"
-		},
-		"-NpB-eU-sJ5Ok6QDRGMx": {
-			"uid": "2c926df5",
-			"task_name": "a suscipit nulla elit ac nulla sed vel enim sit amet nunc viverra dapibus nulla suscipit ligula",
-			"category": "social",
-			"startDate": "2024-01-02T15:32:27Z",
-			"todo": "Go to a farmers market",
-			"status": "In Progress"
-		},
-		"-NpB-eU2K8_g8nRYn452": {
-			"uid": "c7ba60b0",
-			"task_name": "venenatis lacinia aenean sit amet justo morbi ut odio cras",
-			"category": "health",
-			"startDate": "2024-01-23T21:03:56Z",
-			"todo": "Take a power nap",
-			"status": "Cancelled"
-		},
-		"-NpB-eU578Iu5gEaPuJD": {
-			"uid": "9209f95b",
-			"task_name": "justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat id",
-			"category": "work",
-			"startDate": "2024-01-29T12:16:23Z",
-			"todo": "Train new staff on drink recipes",
-			"status": "In Progress"
-		},
-		"-NpB-eU89hSFysNh3HTf": {
-			"uid": "60a57492",
-			"task_name": "quam nec dui luctus rutrum nulla tellus in sagittis dui vel nisl",
-			"category": "social",
-			"startDate": "2024-01-09T09:02:12Z",
-			"todo": "Go to a local festival",
-			"status": "In Progress"
-		},
-		"-NpB-eUBD2w7AnrEfPXx": {
-			"uid": "0deb4e33",
-			"task_name": "augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent blandit",
-			"category": "social",
-			"startDate": "2024-01-30T22:41:15Z",
-			"todo": "Go to a trivia night",
-			"status": "Completed"
-		},
-		"-NpB-eUEqlPcbXX2KYD_": {
-			"uid": "fded3eba",
-			"task_name": "ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit",
-			"category": "home",
-			"startDate": "2024-01-14T21:05:21Z",
-			"todo": "Hang up new curtains",
-			"status": "Completed"
-		},
-		"-NpB-eUGXL_7hd9HvMsJ": {
-			"uid": "0fdac619",
-			"task_name": "accumsan felis ut at dolor quis odio consequat varius integer ac leo",
-			"category": "home",
-			"startDate": "2024-01-01T18:32:10Z",
-			"todo": "Paint the living room",
-			"status": "Completed"
-		},
-		"-NpB-eUIzAj9Hv5qjXeJ": {
-			"uid": "90022a0e",
-			"task_name": "mollis molestie lorem quisque ut erat curabitur gravida nisi at nibh in",
-			"category": "work",
-			"startDate": "2024-01-09T13:10:54Z",
-			"todo": "Train new staff on drink recipes",
-			"status": "Completed"
-		},
-		"-NpB-eUMzjzxjF8T7b3R": {
-			"uid": "a5dad960",
-			"task_name": "in tempus sit amet sem fusce consequat nulla nisl nunc",
-			"category": "social",
-			"startDate": "2024-01-13T13:16:03Z",
-			"todo": "Go to a trivia night",
-			"status": "In Progress"
-		},
-		"-NpB-eURjRWMJBfoAOcl": {
-			"uid": "20b5fa4b",
-			"task_name": "magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis",
-			"category": "health",
-			"startDate": "2024-01-06T01:28:28Z",
-			"todo": "Take a multivitamin",
-			"status": "Completed"
-		},
-		"-NpB-eUWbgciDj1V4rXk": {
-			"uid": "14cf9661",
-			"task_name": "massa donec dapibus duis at velit eu est congue elementum in",
-			"category": "school",
-			"startDate": "2024-01-03T06:08:57Z",
-			"todo": "Apply for a scholarship",
-			"status": "Cancelled"
-		},
-		"-NpB-eUZcUa1Tt1YBESd": {
-			"uid": "8117d1e8",
-			"task_name": "ipsum ac tellus semper interdum mauris ullamcorper purus sit amet nulla quisque arcu libero",
-			"category": "health",
-			"startDate": "2024-01-28T15:09:38Z",
-			"todo": "Practice gratitude journaling",
-			"status": "Cancelled"
-		},
-		"-NpB-eUbBCGMLGlC6GPC": {
-			"uid": "7a134f0b",
-			"task_name": "at turpis donec posuere metus vitae ipsum aliquam non mauris morbi",
-			"category": "school",
-			"startDate": "2024-01-02T15:24:45Z",
-			"todo": "Meet with a professor",
-			"status": "Cancelled"
-		},
-		"-NpB-eUgPdUB2484vsTg": {
-			"uid": "330f2ef3",
-			"task_name": "nulla ultrices aliquet maecenas leo odio condimentum id luctus nec",
-			"category": "school",
-			"startDate": "2024-01-29T21:24:09Z",
-			"todo": "Attend a student organization meeting",
-			"status": "Cancelled"
-		},
-		"-NpB-eUlGSnqYiIa1fx0": {
-			"uid": "7c251b4c",
-			"task_name": "ipsum praesent blandit lacinia erat vestibulum sed magna at nunc commodo placerat praesent blandit nam nulla integer pede",
-			"category": "health",
-			"startDate": "2024-01-22T18:33:08Z",
-			"todo": "Try a new healthy smoothie recipe",
-			"status": "Completed"
-		},
-		"-NpB-eUofOw6p1fRaOch": {
-			"uid": "068246f7",
-			"task_name": "aliquam convallis nunc proin at turpis a pede posuere nonummy integer non velit",
-			"category": "home",
-			"startDate": "2024-01-02T12:42:50Z",
-			"todo": "Polish the silverware",
-			"status": "Completed"
-		},
-		"-NpB-eUsJ4oab_cRqbho": {
-			"uid": "b17201f5",
-			"task_name": "parturient montes nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et magnis dis parturient",
-			"category": "health",
-			"startDate": "2024-01-25T06:04:52Z",
-			"todo": "Take a brisk jog",
-			"status": "Cancelled"
-		}
+	  "-NqAQx5pZurL7VB95hQK": {
+		"category": "health",
+		"finish": "2024-02-18",
+		"start": "2024-02-04",
+		"status": "in-progress",
+		"todo": "Take a nap for 20 minutes",
+		"uid": "e4f75e1a"
+	  },
+	  "-NqAQx5sPtF41JNcs88M": {
+		"category": "personal",
+		"finish": "2024-02-11",
+		"start": "2024-02-04",
+		"status": "in-progress",
+		"todo": "Call mom",
+		"uid": "ca10510b"
+	  },
+	  "-NqAQx5wTznbPb3KwEDh": {
+		"category": "health",
+		"finish": "2024-02-14",
+		"start": "2024-01-31",
+		"status": "cancelled",
+		"todo": "Practice gratitude by listing 5 things you're thankful for",
+		"uid": "a613be55"
+	  },
+	  "-NqAQx5z2EJPdAFEJrR8": {
+		"category": "school",
+		"finish": "2024-02-22",
+		"start": "2024-02-01",
+		"status": "cancelled",
+		"todo": "Practice responsive typography",
+		"uid": "09f65fa7"
+	  },
+	  "-NqAQx627_pAI0V3f4sF": {
+		"category": "personal",
+		"finish": "2024-02-07",
+		"start": "2024-01-31",
+		"status": "cancelled",
+		"todo": "Call mom",
+		"uid": "1b159b87"
+	  },
+	  "-NqAQx65CMd7_sqnhXxu": {
+		"category": "health",
+		"finish": "2024-02-14",
+		"start": "2024-01-31",
+		"status": "completed",
+		"todo": "Do a puzzle or brain teaser",
+		"uid": "3ea4bac0"
+	  },
+	  "-NqAQx68FvbTiINDrHn5": {
+		"category": "school",
+		"finish": "2024-02-23",
+		"start": "2024-02-02",
+		"status": "cancelled",
+		"todo": "Learn about cross-browser compatibility",
+		"uid": "78ee15a4"
+	  },
+	  "-NqAQx6BtDyWEYNx_4dt": {
+		"category": "personal",
+		"finish": "2024-02-19",
+		"start": "2024-02-05",
+		"status": "in-progress",
+		"todo": "Read a book",
+		"uid": "626c2d5c"
+	  },
+	  "-NqAQx6F_jfk864u5lf3": {
+		"category": "school",
+		"finish": "2024-02-13",
+		"start": "2024-01-30",
+		"status": "completed",
+		"todo": "Experiment with CSS preprocessors",
+		"uid": "cfe942e2"
+	  },
+	  "-NqAQx6Idf5g3H2yVu4S": {
+		"category": "school",
+		"finish": "2024-02-27",
+		"start": "2024-02-06",
+		"status": "cancelled",
+		"todo": "Create a responsive navigation menu",
+		"uid": "ba49ae67"
+	  },
+	  "-NqAQx6LKai3L0AtmPgA": {
+		"category": "school",
+		"finish": "2024-02-06",
+		"start": "2024-01-30",
+		"status": "completed",
+		"todo": "Design a responsive website",
+		"uid": "234287b2"
+	  },
+	  "-NqAQx6Oflc-xT7Nqy5r": {
+		"category": "personal",
+		"finish": "2024-02-23",
+		"start": "2024-02-02",
+		"status": "cancelled",
+		"todo": "Go for a run",
+		"uid": "83cc396c"
+	  },
+	  "-NqAQx6SgdiNW2TMLQL6": {
+		"category": "work",
+		"finish": "2024-02-09",
+		"start": "2024-02-02",
+		"status": "completed",
+		"todo": "Style navigation bar",
+		"uid": "c3c68176"
+	  },
+	  "-NqAQx6V5DPXjqiEz1nE": {
+		"category": "personal",
+		"finish": "2024-02-05",
+		"start": "2024-01-29",
+		"status": "completed",
+		"todo": "Finish work presentation",
+		"uid": "31a4a3a6"
+	  },
+	  "-NqAQx6Ydcn348jXIFrG": {
+		"category": "health",
+		"finish": "2024-02-25",
+		"start": "2024-02-04",
+		"status": "in-progress",
+		"todo": "Read a book for 30 minutes",
+		"uid": "c0f82277"
+	  },
+	  "-NqAQx6bS4tL4eqbGDx0": {
+		"category": "personal",
+		"finish": "2024-02-12",
+		"start": "2024-01-29",
+		"status": "in-progress",
+		"todo": "Attend yoga class",
+		"uid": "da7dcd2e"
+	  },
+	  "-NqAQx6eNcCvF6eHGEb9": {
+		"category": "school",
+		"finish": "2024-02-13",
+		"start": "2024-02-06",
+		"status": "completed",
+		"todo": "Learn version control with Git",
+		"uid": "c8f082f7"
+	  },
+	  "-NqAQx6hkxIgC4TK1UiB": {
+		"category": "work",
+		"finish": "2024-02-28",
+		"start": "2024-02-07",
+		"status": "completed",
+		"todo": "Style navigation bar",
+		"uid": "06239cdc"
+	  },
+	  "-NqAQx6klcLgp_NC4a1A": {
+		"category": "work",
+		"finish": "2024-02-16",
+		"start": "2024-02-02",
+		"status": "in-progress",
+		"todo": "Add tooltips",
+		"uid": "d1b497b9"
+	  },
+	  "-NqAQx6okv7hD8wRJ2e3": {
+		"category": "personal",
+		"finish": "2024-02-27",
+		"start": "2024-02-06",
+		"status": "in-progress",
+		"todo": "Plan weekend trip",
+		"uid": "6627df74"
+	  },
+	  "-NqAQx6rkYNHdOY0g9Ka": {
+		"category": "work",
+		"finish": "2024-02-17",
+		"start": "2024-02-03",
+		"status": "cancelled",
+		"todo": "Fix broken image links",
+		"uid": "2b0b687f"
+	  },
+	  "-NqAQx6uFCzQ6ZGUcFPg": {
+		"category": "health",
+		"finish": "2024-02-11",
+		"start": "2024-02-04",
+		"status": "completed",
+		"todo": "Do a digital detox for 1 hour",
+		"uid": "0cc58e2e"
+	  },
+	  "-NqAQx6yCUIH09zKLYyb": {
+		"category": "school",
+		"finish": "2024-02-06",
+		"start": "2024-01-30",
+		"status": "completed",
+		"todo": "Collaborate on a group project",
+		"uid": "e3b298e3"
+	  },
+	  "-NqAQx702phg2-TvTbD4": {
+		"category": "personal",
+		"finish": "2024-02-19",
+		"start": "2024-02-05",
+		"status": "cancelled",
+		"todo": "Call mom",
+		"uid": "f3fbbfe2"
+	  },
+	  "-NqAQx73UC24mp3X2k-r": {
+		"category": "personal",
+		"finish": "2024-02-19",
+		"start": "2024-01-29",
+		"status": "completed",
+		"todo": "Update controller finally working now",
+		"uid": "-NqAQx73UC24mp3X2k-r"
+	  },
+	  "-NuCX55HUfhfYJiPuqJq": {
+		"category": "health",
+		"status": "in-progress",
+		"todo": "Add to do controller working"
+	  },
+	  "-NuCXYOsYH8oXNKlO4Lt": {
+		"category": "work",
+		"status": "in-progress",
+		"todo": "Finish lab 4 of dmit2008"
+	  },
+	  "-NuCXhhXa5Mra2tatRos": {
+		"category": "personal",
+		"status": "cancelled",
+		"todo": "Prep for 10 hours work at the bakery"
+	  },
+	  "-NuCXmnvJgXgr9TdBMDb": {
+		"category": "work",
+		"status": "completed",
+		"todo": "Work during the holidays"
+	  },
+	  "-NuCZ7AIXJHB8kdDYiL1": {
+		"category": "school",
+		"status": "completed",
+		"todo": "Submit dmit2008 lab4 before the deadline"
+	  },
+	  "-NuCZBVAV3fVrPkf3AuZ": {
+		"category": "personal",
+		"status": "cancelled",
+		"todo": "Water plants"
+	  },
+	  "-NuCZEvSli9N_Wr1yx96": {
+		"category": "personal",
+		"status": "in-progress",
+		"todo": "Exercise and meditate"
+	  },
+	  "-NuCZPlLPk0P1gZ5MkR7": {
+		"category": "school",
+		"status": "in-progress",
+		"todo": "Finish designing Capstfgfdsgsdfone Proj",
+		"uid": "-NuCZPlLPk0P1gZ5MkR7"
+	  },
+	  "-NvJjGVFp3VzaH0XWPL8": {
+		"category": "personal",
+		"status": "completed",
+		"todo": "Update Lab 5"
+	  },
+	  "-NvJjKxb2i7qCljPrKrx": {
+		"category": "health",
+		"status": "completed",
+		"todo": "Hello"
+	  },
+	  "-NvJklJ1i5ES7qjWwvmh": {
+		"category": "personal",
+		"status": "ongoing",
+		"todo": "Walk the dogs"
+	  },
+	  "-NvJmBU1yjPy5i0ovuVL": {
+		"category": "work",
+		"status": "ongoing",
+		"todo": "Wake up early"
+	  },
+	  "-NvJmQjecBx3ZXf7Sglj": {
+		"category": "work",
+		"status": "in-progress",
+		"todo": "Update controller now"
+	  }
 	}
-}
+  }
