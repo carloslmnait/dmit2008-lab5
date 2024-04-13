@@ -6,6 +6,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<title>To Do List Live View</title>
 		<link rel="stylesheet" href="css/index.css" />
+		<link href="https://cdn.tailwindcss.com" rel="stylesheet">
 		<!-- <script src="js/mvc.js" type="module"></script> -->
 		<script src="js/index.js" type="module"></script>
 	</head>
@@ -128,6 +129,9 @@
 							</svg>
 						</button>
 					</nav>
+					<div id="toast" class="bg-green-700 text-white shadow-lg z-50 hidden fixed top-20 right-5 w-auto px-8 py-6 rounded-lg" role="alert">
+						Added to-do list!
+					</div>					
 					<header>
 						<h1 class="text-center font-semibold text-zinc-700 text-3xl">Create Item</h1>
 						<p class="text-[10px] text-center font-semibold text-zinc-700">item id: id to come later</p>
@@ -135,7 +139,7 @@
 					<form id="create-form" class="space-y-6 px-6 mb-12">
 						<!-- Category -->
 						<div>
-							<label class="text-xs pl-1.5 font-semibold" for="category">Category</label>
+							<label class="text-xs pl-1.5 font-semibold" for="category">Category:</label>
 							<input
 								id="category"
 								type="text"
@@ -146,13 +150,13 @@
 
 						<!-- Status -->
 						<div>
-							<label class="text-xs pl-1.5 font-semibold" for="status">Status</label>
+							<label class="text-xs pl-1.5 font-semibold" for="status">Status:</label>
 							<input id="status" name="status" type="text" placeholder="Item Status" class="w-full border border-zinc-400 px-3 py-2 text-sm rounded-md placeholder:text-zinc-500 placeholder:text-xs" />
 						</div>
 
-						<!-- Status -->
+						<!-- Todo -->
 						<div>
-							<label class="text-xs pl-1.5 font-semibold" for="todo">Status</label>
+							<label class="text-xs pl-1.5 font-semibold" for="todo">To Do:</label>
 							<input
 								id="todo"
 								name="todo"

@@ -42,12 +42,10 @@ export function updateToDo(updatedToDo) {
     notify(store)
 }
 
-// Add to do controller
 export async function addToDo(addedToDo) {
     const dbRef = ref(db, `todos`)
     const addedToDoRef = push(dbRef)
 
-    // call addToStore 
     await set(addedToDoRef, addedToDo)
     addedToDo.uid = addedToDoRef.key
     const store = addToStore(addedToDo)
